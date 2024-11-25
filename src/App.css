@@ -8,7 +8,7 @@
 }
 
 .bg-nubes {
-  background: no-repeat fixed url("./img/bg-nubes3.png");
+  background: no-repeat fixed url("./assets/img/bg-nubes3.png");
   background-size: cover;
   background-position: center;
   background-color: #ecf4f9;
