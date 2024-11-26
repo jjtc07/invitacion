@@ -20,7 +20,7 @@ function App() {
           Queremos que seas parte de este momento especial en nuestras vidas.
         </p>
         <p className="atma-semibold my-4 text-3xl text-shadow">
-          ¡Acompáñanos en la revelación de género de nuestr♥︎ bebé!
+          ¡Acompáñanos en la revelación de sexo de nuestr♥︎ bebé!
         </p>
 
         <div className="flex justify-evenly">
